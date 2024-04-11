@@ -2,7 +2,7 @@ local AkaliNotif = loadstring(game:HttpGet("https://raw.githubusercontent.com/Ki
 local Notify = AkaliNotif.Notify;
 Notify({
 Description = "Purple Bubble Lock Successfully Loaded";
-Title = "made by inexo";
+Title = "made by indexo";
 Duration = 10;
 });
 
